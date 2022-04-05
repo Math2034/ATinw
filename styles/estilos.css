@@ -13,7 +13,7 @@ html {
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 2rem;
-    color: #dba33b;
+    color: #fd9d24;
     line-height: 1.5;
 }
 
@@ -48,7 +48,7 @@ p {
 }
 
 .main-bg {
-    background-color: #dba33b;
+    background-color: #fd9d24;
     background-size: cover;
     background-position: center center;
     color: #FFFFFF;
@@ -56,7 +56,7 @@ p {
 
 .white-bg {
     background: #FFFFFF;
-    color: #dba33b;
+    color: #fd9d24;
 }
 
 .main-content {
@@ -98,7 +98,7 @@ body .full-width {
 
 .menu h1 {
     font-size: 2.3rem;
-    color: #dba33b;
+    color: #fd9d24;
 }
 
 .menu h1 a {
@@ -114,7 +114,7 @@ body .full-width {
     display: block;
     padding: 2rem;
     font-size: 1.8rem;
-    color: #dba33b;
+    color: #fd9d24;
     position: relative;
 }
 
@@ -125,7 +125,7 @@ body .full-width {
     left: 50%;
     width: 0;
     height: 0.2rem;
-    background: #dba33b;
+    background: #fd9d24;
     transition: all 300ms ease-in-out;
 }
 
@@ -219,7 +219,7 @@ body .full-width {
     justify-content: center;
     align-items: center;
     border-radius: 50%;
-    color: #dba33b;
+    color: #fd9d24;
     transform: rotate(-90deg);
-    border: 0.1rem solid #dba33b;
+    border: 0.1rem solid #fd9d24;
 }
